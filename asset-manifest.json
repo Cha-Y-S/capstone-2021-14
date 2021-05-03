@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HAI/static/css/main.9f28c626.chunk.css",
+    "main.js": "/HAI/static/js/main.2427dc11.chunk.js",
+    "main.js.map": "/HAI/static/js/main.2427dc11.chunk.js.map",
+    "runtime-main.js": "/HAI/static/js/runtime-main.94cf5f1f.js",
+    "runtime-main.js.map": "/HAI/static/js/runtime-main.94cf5f1f.js.map",
+    "static/js/2.96940ec7.chunk.js": "/HAI/static/js/2.96940ec7.chunk.js",
+    "static/js/2.96940ec7.chunk.js.map": "/HAI/static/js/2.96940ec7.chunk.js.map",
+    "index.html": "/HAI/index.html",
+    "precache-manifest.ae7d29c94a34ac7d53a3916036eafec3.js": "/HAI/precache-manifest.ae7d29c94a34ac7d53a3916036eafec3.js",
+    "service-worker.js": "/HAI/service-worker.js",
+    "static/css/main.9f28c626.chunk.css.map": "/HAI/static/css/main.9f28c626.chunk.css.map",
+    "static/js/2.96940ec7.chunk.js.LICENSE.txt": "/HAI/static/js/2.96940ec7.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/HAI/static/media/1.19fb8872.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94cf5f1f.js",
+    "static/js/2.96940ec7.chunk.js",
+    "static/css/main.9f28c626.chunk.css",
+    "static/js/main.2427dc11.chunk.js"
+  ]
+}
